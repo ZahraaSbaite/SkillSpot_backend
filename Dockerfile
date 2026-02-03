@@ -1,43 +1,39 @@
-FROM php:8.2-cli
+FROM php:8.2-apache
 
-# Install system dependencies
+# Install dependencies
 RUN apt-get update && apt-get install -y \
     git \
-    curl \
-    libpng-dev \
-    libonig-dev \
-    libxml2-dev \
-    libzip-dev \
-    zip \
     unzip \
-    && rm -rf /var/lib/apt/lists/*
+    libzip-dev \
+    && docker-php-ext-install pdo pdo_mysql zip \
+    && apt-get clean
 
-# Install PHP extensions
-RUN docker-php-ext-install pdo pdo_mysql mysqli mbstring gd xml zip bcmath
+# Enable Apache modules
+RUN a2enmod rewrite headers
 
 # Install Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
 # Set working directory
-WORKDIR /app
-
-# Copy composer files first for better caching
-COPY composer.json composer.lock* ./
-
-# Install PHP dependencies
-RUN composer install --optimize-autoloader --no-dev --no-scripts --no-interaction || true
+WORKDIR /var/www/html
 
 # Copy application files
-COPY . .
+COPY . /var/www/html/
 
-# Run composer install again in case composer.lock wasn't available initially
-RUN composer install --optimize-autoloader --no-dev --no-interaction
+# Configure Apache to serve from /public directory
+ENV APACHE_DOCUMENT_ROOT=/var/www/html/public
+RUN sed -ri -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
+RUN sed -ri -e 's!/var/www/!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/apache2.conf /etc/apache2/conf-available/*.conf
 
-# Create necessary directories and set permissions
-RUN mkdir -p /app/public && chmod -R 755 /app
+# Install PHP dependencies if composer.json exists
+RUN if [ -f composer.json ]; then composer install --no-dev --optimize-autoloader; fi
+
+# Set permissions
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html
 
 # Expose port
-EXPOSE 8080
+EXPOSE 80
 
-# Start PHP built-in server
-CMD php -S 0.0.0.0:$PORT -t public
+# Start Apache
+CMD ["apache2-foreground"]
