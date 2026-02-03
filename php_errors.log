@@ -1,0 +1,600 @@
+[24-Jan-2026 23:58:56 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[24-Jan-2026 23:58:56 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[24-Jan-2026 23:58:56 Europe/Berlin] ℹ️ No roadmap found for user 27
+[24-Jan-2026 23:59:19 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[24-Jan-2026 23:59:19 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[24-Jan-2026 23:59:19 Europe/Berlin] ℹ️ No roadmap found for user 27
+[24-Jan-2026 23:59:20 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[24-Jan-2026 23:59:20 Europe/Berlin] 📡 Fetching all development paths
+[24-Jan-2026 23:59:20 Europe/Berlin] ✅ Fetched 12 paths
+[24-Jan-2026 23:59:32 Europe/Berlin] 📡 Incoming request: action=select_path, method=POST
+[24-Jan-2026 23:59:32 Europe/Berlin] 🚀 Selecting path: user_id=27, path_id=7
+[24-Jan-2026 23:59:32 Europe/Berlin] ℹ️ Creating new roadmap for user 27
+[24-Jan-2026 23:59:32 Europe/Berlin] ✅ Path selected successfully for user 27
+[24-Jan-2026 23:59:32 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[24-Jan-2026 23:59:32 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[24-Jan-2026 23:59:32 Europe/Berlin] ✅ Roadmap found for user 27: Cybersecurity Analyst
+[24-Jan-2026 23:59:32 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[24-Jan-2026 23:59:32 Europe/Berlin] 📡 Fetching all development paths
+[24-Jan-2026 23:59:32 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 00:08:05 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 00:08:05 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 00:08:05 Europe/Berlin] ✅ Roadmap found for user 27: Cybersecurity Analyst
+[25-Jan-2026 00:08:05 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 00:08:05 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 00:08:05 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 00:09:22 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 00:09:22 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 00:09:22 Europe/Berlin] ✅ Roadmap found for user 27: Cybersecurity Analyst
+[25-Jan-2026 00:09:22 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 00:09:22 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 00:09:22 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 00:15:24 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 00:15:24 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 00:15:24 Europe/Berlin] ✅ Roadmap found for user 27: Cybersecurity Analyst
+[25-Jan-2026 00:15:24 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 00:15:24 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 00:15:24 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 00:17:30 Europe/Berlin] 📡 Incoming request: action=select_path, method=POST
+[25-Jan-2026 00:17:30 Europe/Berlin] 🚀 Selecting path: user_id=27, path_id=6
+[25-Jan-2026 00:17:30 Europe/Berlin] ℹ️ Updating existing roadmap for user 27
+[25-Jan-2026 00:17:30 Europe/Berlin] ✅ Path selected successfully for user 27
+[25-Jan-2026 00:17:30 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 00:17:30 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 00:17:30 Europe/Berlin] ✅ Roadmap found for user 27: Data Scientist
+[25-Jan-2026 00:17:31 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 00:17:31 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 00:17:31 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 02:34:58 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 02:34:58 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 02:34:58 Europe/Berlin] ✅ Roadmap found for user 27: Data Scientist
+[25-Jan-2026 02:34:58 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 02:34:58 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 02:34:59 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 17:37:58 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 17:37:58 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 17:37:58 Europe/Berlin] ✅ Roadmap found for user 27: Data Scientist
+[25-Jan-2026 17:37:58 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 17:37:58 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 17:37:58 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 18:16:27 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 18:16:27 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 18:16:27 Europe/Berlin] ✅ Roadmap found for user 27: Data Scientist
+[25-Jan-2026 18:16:27 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 18:16:27 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 18:16:27 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 18:27:02 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 18:27:02 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 18:27:02 Europe/Berlin] ✅ Roadmap found for user 27: Data Scientist
+[25-Jan-2026 18:27:02 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 18:27:02 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 18:27:02 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 18:27:07 Europe/Berlin] 📡 Incoming request: action=select_path, method=POST
+[25-Jan-2026 18:27:07 Europe/Berlin] 🚀 Selecting path: user_id=27, path_id=8
+[25-Jan-2026 18:27:07 Europe/Berlin] ℹ️ Updating existing roadmap for user 27
+[25-Jan-2026 18:27:07 Europe/Berlin] ✅ Path selected successfully for user 27
+[25-Jan-2026 18:27:08 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 18:27:08 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 18:27:08 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[25-Jan-2026 18:27:08 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 18:27:08 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 18:27:08 Europe/Berlin] ✅ Fetched 12 paths
+[25-Jan-2026 18:33:27 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[25-Jan-2026 18:33:27 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[25-Jan-2026 18:33:27 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[25-Jan-2026 18:33:27 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[25-Jan-2026 18:33:27 Europe/Berlin] 📡 Fetching all development paths
+[25-Jan-2026 18:33:28 Europe/Berlin] ✅ Fetched 12 paths
+[26-Jan-2026 19:56:28 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[26-Jan-2026 19:56:28 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[26-Jan-2026 19:56:28 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[26-Jan-2026 19:56:28 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[26-Jan-2026 19:56:28 Europe/Berlin] 📡 Fetching all development paths
+[26-Jan-2026 19:56:28 Europe/Berlin] ✅ Fetched 12 paths
+[26-Jan-2026 23:55:00 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[26-Jan-2026 23:55:00 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[26-Jan-2026 23:55:00 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[26-Jan-2026 23:55:00 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[26-Jan-2026 23:55:00 Europe/Berlin] 📡 Fetching all development paths
+[26-Jan-2026 23:55:00 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 00:45:17 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 00:45:17 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 00:45:17 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 00:45:17 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 00:45:17 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 00:45:17 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 00:55:21 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 00:55:21 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 00:55:21 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 00:55:21 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 00:55:21 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 00:55:21 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 01:10:39 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 01:10:39 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 01:10:39 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 01:10:40 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 01:10:40 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 01:10:40 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 01:26:03 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 01:26:03 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 01:26:03 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 01:26:04 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 01:26:04 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 01:26:04 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 01:30:47 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 01:30:47 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 01:30:47 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 01:30:48 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 01:30:48 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 01:30:48 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 11:53:48 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 11:53:48 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 11:53:48 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 11:53:48 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 11:53:48 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 11:53:48 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 11:59:03 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 11:59:03 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 11:59:03 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 11:59:03 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 11:59:03 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 11:59:03 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 12:07:14 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 12:07:14 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 12:07:14 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 12:07:14 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 12:07:14 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 12:07:14 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 12:20:47 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 12:20:47 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 12:20:47 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 12:20:47 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 12:20:47 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 12:20:47 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 12:30:34 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 12:30:34 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 12:30:34 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 12:30:34 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 12:30:34 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 12:30:34 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 12:55:13 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 12:55:13 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 12:55:13 Europe/Berlin] ✅ Roadmap found for user 27: DevOps Engineer
+[27-Jan-2026 12:55:13 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 12:55:13 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 12:55:13 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 13:15:53 Europe/Berlin] 📡 Incoming request: action=select_path, method=POST
+[27-Jan-2026 13:15:53 Europe/Berlin] 🚀 Selecting path: user_id=27, path_id=3
+[27-Jan-2026 13:15:53 Europe/Berlin] ℹ️ Updating existing roadmap for user 27
+[27-Jan-2026 13:15:53 Europe/Berlin] ✅ Path selected successfully for user 27
+[27-Jan-2026 13:15:53 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 13:15:53 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 13:15:53 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 13:15:53 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 13:15:53 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 13:15:53 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 13:26:09 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 13:26:09 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 13:26:09 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 13:26:09 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 13:26:09 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 13:26:09 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 13:26:41 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 13:26:41 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 13:26:41 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 13:26:41 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 13:26:41 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 13:26:41 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 14:14:48 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 14:14:48 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 14:14:48 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 14:14:48 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 14:14:48 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 14:14:48 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 14:47:43 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 14:47:43 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 14:47:43 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 14:47:43 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 14:47:43 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 14:47:43 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 22:34:00 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 22:34:00 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 22:34:00 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 22:34:00 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 22:34:00 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 22:34:00 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 23:29:30 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 23:29:30 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 23:29:30 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 23:29:30 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 23:29:30 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 23:29:30 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 23:32:56 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 23:32:56 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 23:32:56 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 23:32:56 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 23:32:56 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 23:32:57 Europe/Berlin] ✅ Fetched 12 paths
+[27-Jan-2026 23:45:53 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[27-Jan-2026 23:45:53 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[27-Jan-2026 23:45:53 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[27-Jan-2026 23:45:53 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[27-Jan-2026 23:45:53 Europe/Berlin] 📡 Fetching all development paths
+[27-Jan-2026 23:45:53 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 00:26:04 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 00:26:04 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 00:26:04 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 00:26:04 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 00:26:04 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 00:26:04 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 00:31:03 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 00:31:03 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 00:31:03 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 00:31:03 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 00:31:03 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 00:31:03 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 01:36:59 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 01:36:59 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 01:36:59 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 01:36:59 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 01:36:59 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 01:36:59 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 05:18:23 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:18:23 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:18:23 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:18:23 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:18:23 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:18:23 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 05:23:13 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:23:13 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:23:13 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:23:13 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:23:13 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:23:13 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 05:25:03 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:25:03 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:25:03 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:25:04 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:25:04 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:25:04 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 05:35:11 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:35:11 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:35:11 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:35:11 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:35:11 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:35:11 Europe/Berlin] ✅ Fetched 12 paths
+[28-Jan-2026 05:42:40 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:42:40 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:42:40 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:42:40 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:42:40 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:42:40 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 05:45:33 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:45:33 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:45:33 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:45:33 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:45:33 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:45:33 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 05:46:54 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:46:54 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:46:54 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:46:55 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:46:55 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:46:55 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 05:50:39 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 05:50:39 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 05:50:39 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 05:50:39 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 05:50:39 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 05:50:39 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:09:02 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:09:02 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:09:02 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:09:02 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:09:02 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:09:02 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:31:08 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:31:08 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:31:08 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:31:09 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:31:09 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:31:09 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:33:09 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:33:09 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:33:09 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:33:10 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:33:10 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:33:10 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:34:42 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:34:42 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:34:42 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:34:43 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:34:43 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:34:43 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:35:42 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:35:42 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:35:42 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:35:43 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:35:43 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:35:43 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:42:37 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:42:37 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:42:37 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:42:37 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:42:37 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:42:37 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:43:25 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:43:25 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:43:25 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:43:26 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:43:26 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:43:26 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:53:29 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:53:29 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:53:29 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:53:29 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:53:29 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:53:29 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:54:24 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:54:24 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:54:24 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:54:24 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:54:24 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:54:24 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 15:55:30 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 15:55:30 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 15:55:30 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 15:55:30 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 15:55:30 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 15:55:30 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 16:01:00 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 16:01:00 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 16:01:00 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 16:01:00 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 16:01:00 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 16:01:00 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 16:05:48 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 16:05:48 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 16:05:48 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 16:05:48 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 16:05:48 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 16:05:48 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 16:11:05 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 16:11:05 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 16:11:05 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 16:11:05 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 16:11:05 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 16:11:05 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 16:31:37 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 16:31:37 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 16:31:37 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 16:31:37 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 16:31:37 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 16:31:37 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 16:41:20 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 16:41:20 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 16:41:20 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 16:41:20 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 16:41:20 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 16:41:20 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 23:34:23 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 23:34:23 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 23:34:23 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 23:34:23 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 23:34:23 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 23:34:23 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 23:36:33 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 23:36:33 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 23:36:33 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 23:36:33 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 23:36:33 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 23:36:34 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 23:49:23 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 23:49:23 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 23:49:23 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 23:49:23 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 23:49:23 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 23:49:23 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 23:52:32 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 23:52:32 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 23:52:32 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 23:52:32 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 23:52:32 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 23:52:32 Europe/Berlin] ✅ Fetched 24 paths
+[28-Jan-2026 23:59:08 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[28-Jan-2026 23:59:08 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[28-Jan-2026 23:59:08 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[28-Jan-2026 23:59:08 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[28-Jan-2026 23:59:08 Europe/Berlin] 📡 Fetching all development paths
+[28-Jan-2026 23:59:08 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 00:04:43 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 00:04:43 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[29-Jan-2026 00:04:43 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[29-Jan-2026 00:04:44 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 00:04:44 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 00:04:44 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 00:04:51 Europe/Berlin] 📡 Incoming request: action=get_path_projects, method=GET
+[29-Jan-2026 00:04:51 Europe/Berlin] 📡 Fetching projects for path_id: 3
+[29-Jan-2026 00:04:51 Europe/Berlin] ✅ Fetched 3 projects for path_id: 3
+[29-Jan-2026 00:05:18 Europe/Berlin] 📡 Incoming request: action=get_path_projects, method=GET
+[29-Jan-2026 00:05:18 Europe/Berlin] 📡 Fetching projects for path_id: 3
+[29-Jan-2026 00:05:18 Europe/Berlin] ✅ Fetched 3 projects for path_id: 3
+[29-Jan-2026 00:15:43 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 00:15:43 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[29-Jan-2026 00:15:43 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[29-Jan-2026 00:15:43 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 00:15:43 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 00:15:44 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 00:16:57 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 00:16:57 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[29-Jan-2026 00:16:57 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[29-Jan-2026 00:16:57 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 00:16:57 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 00:16:57 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 00:23:17 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 00:23:17 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[29-Jan-2026 00:23:17 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[29-Jan-2026 00:23:17 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 00:23:17 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 00:23:18 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 00:27:04 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 00:27:04 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[29-Jan-2026 00:27:04 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[29-Jan-2026 00:27:04 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 00:27:04 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 00:27:04 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 05:46:35 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 05:46:35 Europe/Berlin] 📡 Fetching roadmap for user_id: 31
+[29-Jan-2026 05:46:35 Europe/Berlin] ℹ️ No roadmap found for user 31
+[29-Jan-2026 05:46:35 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 05:46:35 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 05:46:35 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 05:46:43 Europe/Berlin] 📡 Incoming request: action=select_path, method=POST
+[29-Jan-2026 05:46:43 Europe/Berlin] 🚀 Selecting path: user_id=31, path_id=7
+[29-Jan-2026 05:46:43 Europe/Berlin] ℹ️ Creating new roadmap for user 31
+[29-Jan-2026 05:46:43 Europe/Berlin] ✅ Path selected successfully for user 31
+[29-Jan-2026 05:46:44 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 05:46:44 Europe/Berlin] 📡 Fetching roadmap for user_id: 31
+[29-Jan-2026 05:46:44 Europe/Berlin] ✅ Roadmap found for user 31: Cybersecurity Analyst
+[29-Jan-2026 05:46:44 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 05:46:44 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 05:46:44 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 05:46:55 Europe/Berlin] 📡 Incoming request: action=get_path_projects, method=GET
+[29-Jan-2026 05:46:55 Europe/Berlin] 📡 Fetching projects for path_id: 7
+[29-Jan-2026 05:46:55 Europe/Berlin] ✅ Fetched 3 projects for path_id: 7
+[29-Jan-2026 15:08:40 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 15:08:40 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[29-Jan-2026 15:08:40 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[29-Jan-2026 15:08:40 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 15:08:40 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 15:08:40 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 15:08:40 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 15:08:40 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 15:08:40 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 15:08:56 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 15:08:56 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 15:08:56 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 15:09:03 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 15:09:03 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 15:09:03 Europe/Berlin] ✅ Fetched 24 paths
+[29-Jan-2026 20:44:17 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[29-Jan-2026 20:44:17 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[29-Jan-2026 20:44:17 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[29-Jan-2026 20:44:17 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[29-Jan-2026 20:44:17 Europe/Berlin] 📡 Fetching all development paths
+[29-Jan-2026 20:44:17 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 18:50:42 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[30-Jan-2026 18:50:42 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[30-Jan-2026 18:50:42 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[30-Jan-2026 18:50:42 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 18:50:42 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 18:50:42 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:06:30 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[30-Jan-2026 19:06:30 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[30-Jan-2026 19:06:30 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[30-Jan-2026 19:06:30 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:06:30 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:06:30 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:06:34 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:06:34 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:06:34 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:10:51 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[30-Jan-2026 19:10:51 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[30-Jan-2026 19:10:51 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[30-Jan-2026 19:10:51 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:10:51 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:10:51 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:10:52 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:10:52 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:10:52 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:12:30 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[30-Jan-2026 19:12:30 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[30-Jan-2026 19:12:30 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[30-Jan-2026 19:12:30 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:12:30 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:12:30 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:12:31 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:12:31 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:12:31 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:13:22 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[30-Jan-2026 19:13:22 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[30-Jan-2026 19:13:22 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[30-Jan-2026 19:13:22 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:13:22 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:13:22 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:13:24 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:13:24 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:13:24 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:13:25 Europe/Berlin] 📡 Incoming request: action=get_path_projects, method=GET
+[30-Jan-2026 19:13:25 Europe/Berlin] 📡 Fetching projects for path_id: 3
+[30-Jan-2026 19:13:25 Europe/Berlin] ✅ Fetched 3 projects for path_id: 3
+[30-Jan-2026 19:16:36 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[30-Jan-2026 19:16:36 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[30-Jan-2026 19:16:36 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[30-Jan-2026 19:16:36 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:16:36 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:16:36 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:16:38 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:16:38 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:16:38 Europe/Berlin] ✅ Fetched 24 paths
+[30-Jan-2026 19:43:08 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[30-Jan-2026 19:43:08 Europe/Berlin] 📡 Fetching all development paths
+[30-Jan-2026 19:43:08 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 01:26:18 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[31-Jan-2026 01:26:18 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[31-Jan-2026 01:26:18 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[31-Jan-2026 01:26:18 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 01:26:18 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 01:26:18 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 01:26:18 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 01:26:18 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 01:26:18 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 01:26:27 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 01:26:27 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 01:26:27 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 02:00:05 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[31-Jan-2026 02:00:05 Europe/Berlin] 📡 Fetching roadmap for user_id: 28
+[31-Jan-2026 02:00:05 Europe/Berlin] ℹ️ No roadmap found for user 28
+[31-Jan-2026 02:00:05 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 02:00:05 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 02:00:05 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 02:00:18 Europe/Berlin] 📡 Incoming request: action=select_path, method=POST
+[31-Jan-2026 02:00:18 Europe/Berlin] 🚀 Selecting path: user_id=28, path_id=4
+[31-Jan-2026 02:00:18 Europe/Berlin] ℹ️ Creating new roadmap for user 28
+[31-Jan-2026 02:00:18 Europe/Berlin] ✅ Path selected successfully for user 28
+[31-Jan-2026 02:00:19 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[31-Jan-2026 02:00:19 Europe/Berlin] 📡 Fetching roadmap for user_id: 28
+[31-Jan-2026 02:00:19 Europe/Berlin] ✅ Roadmap found for user 28: Mobile App Developer
+[31-Jan-2026 02:00:19 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 02:00:19 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 02:00:19 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 02:00:21 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 02:00:21 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 02:00:21 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 02:02:25 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[31-Jan-2026 02:02:25 Europe/Berlin] 📡 Fetching roadmap for user_id: 28
+[31-Jan-2026 02:02:25 Europe/Berlin] ✅ Roadmap found for user 28: Mobile App Developer
+[31-Jan-2026 02:02:25 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 02:02:25 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 02:02:25 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 02:02:27 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 02:02:27 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 02:02:27 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 02:02:54 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[31-Jan-2026 02:02:54 Europe/Berlin] 📡 Fetching all development paths
+[31-Jan-2026 02:02:54 Europe/Berlin] ✅ Fetched 24 paths
+[31-Jan-2026 02:03:04 Europe/Berlin] 📡 Incoming request: action=get_path_projects, method=GET
+[31-Jan-2026 02:03:04 Europe/Berlin] 📡 Fetching projects for path_id: 4
+[31-Jan-2026 02:03:04 Europe/Berlin] ✅ Fetched 3 projects for path_id: 4
+[02-Feb-2026 17:16:10 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[02-Feb-2026 17:16:10 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[02-Feb-2026 17:16:10 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[02-Feb-2026 17:16:10 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[02-Feb-2026 17:16:10 Europe/Berlin] 📡 Fetching all development paths
+[02-Feb-2026 17:16:10 Europe/Berlin] ✅ Fetched 24 paths
+[02-Feb-2026 18:38:52 Europe/Berlin] 📡 Incoming request: action=get_user_roadmap, method=GET
+[02-Feb-2026 18:38:52 Europe/Berlin] 📡 Fetching roadmap for user_id: 27
+[02-Feb-2026 18:38:52 Europe/Berlin] ✅ Roadmap found for user 27: Full-Stack Developer
+[02-Feb-2026 18:38:52 Europe/Berlin] 📡 Incoming request: action=get_all_paths, method=GET
+[02-Feb-2026 18:38:52 Europe/Berlin] 📡 Fetching all development paths
+[02-Feb-2026 18:38:52 Europe/Berlin] ✅ Fetched 24 paths

@@ -1,0 +1,7 @@
+[13-Jan-2026 22:01:14 Europe/Berlin] Delete user request: Array
+(
+    [user_id] => 1
+)
+
+[13-Jan-2026 22:01:14 Europe/Berlin] Attempting to delete user: ID=1, Email=zahsb@gmail.com
+[13-Jan-2026 22:01:14 Europe/Berlin] Exception during delete: Cannot delete or update a parent row: a foreign key constraint fails (`capstone`.`messages`, CONSTRAINT `messages_ibfk_1` FOREIGN KEY (`sender_id`) REFERENCES `users` (`id`))

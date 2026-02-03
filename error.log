@@ -1,0 +1,30 @@
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] === GENERATE CERTIFICATE REQUEST ===
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] User ID: 27, Skill ID: 31
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] User found: zahraa sbaity
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] Skill found: test (Beginner)
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] Certificate ID: CERT-0027-0031-20260128-045722
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] Starting PDF generation for user 27, skill 31
+[28-Jan-2026 04:57:22 Europe/Berlin] PHP Warning:  include(C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\flutter_backend\fpdf\fpdf.php on line 1074
+[28-Jan-2026 04:57:22 Europe/Berlin] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\flutter_backend\fpdf\fpdf.php on line 1074
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] Error generating PDF: FPDF error: Could not include font definition file: C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php
+[28-Jan-2026 04:57:22 Europe/Berlin] [2026-01-28 04:57:22] API Error: FPDF error: Could not include font definition file: C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] === GENERATE CERTIFICATE REQUEST ===
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] User ID: 27, Skill ID: 31
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] User found: zahraa sbaity
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] Skill found: test (Beginner)
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] Certificate ID: CERT-0027-0031-20260128-045733
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] Starting PDF generation for user 27, skill 31
+[28-Jan-2026 04:57:33 Europe/Berlin] PHP Warning:  include(C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\flutter_backend\fpdf\fpdf.php on line 1074
+[28-Jan-2026 04:57:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\flutter_backend\fpdf\fpdf.php on line 1074
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] Error generating PDF: FPDF error: Could not include font definition file: C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php
+[28-Jan-2026 04:57:33 Europe/Berlin] [2026-01-28 04:57:33] API Error: FPDF error: Could not include font definition file: C:\xampp\htdocs\flutter_backend\fpdf/font/helveticab.php
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] === GENERATE CERTIFICATE REQUEST ===
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] User ID: 27, Skill ID: 31
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] User found: zahraa sbaity
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] Skill found: test (Beginner)
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] Certificate ID: CERT-0027-0031-20260128-045943
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] Starting PDF generation for user 27, skill 31
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] Saving PDF to: C:\xampp\htdocs\flutter_backend/certificates/certificate_27_31_1769572783.pdf
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] PDF saved successfully. Size: 2286 bytes
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] Certificate URL: http://localhost/flutter_backend/certificates/certificate_27_31_1769572783.pdf
+[28-Jan-2026 04:59:43 Europe/Berlin] [2026-01-28 04:59:43] Certificate saved to database with ID: 1

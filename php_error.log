@@ -1,0 +1,39 @@
+[24-Jan-2026 12:49:16 Europe/Berlin] === JOIN REQUEST STARTED ===
+[24-Jan-2026 12:49:16 Europe/Berlin] Raw input: {"user_id":27,"community_id":4}
+[24-Jan-2026 12:49:16 Europe/Berlin] Decoded data: Array
+(
+    [user_id] => 27
+    [community_id] => 4
+)
+
+[24-Jan-2026 12:49:16 Europe/Berlin] User ID: 27, Community ID: 4
+[24-Jan-2026 12:49:16 Europe/Berlin] Checking if community exists...
+[24-Jan-2026 12:49:16 Europe/Berlin] Creator ID: 28
+[24-Jan-2026 12:49:16 Europe/Berlin] Checking existing membership...
+[24-Jan-2026 12:49:16 Europe/Berlin] ERROR: Already a member
+[24-Jan-2026 12:49:20 Europe/Berlin] === JOIN REQUEST STARTED ===
+[24-Jan-2026 12:49:20 Europe/Berlin] Raw input: {"user_id":27,"community_id":4}
+[24-Jan-2026 12:49:20 Europe/Berlin] Decoded data: Array
+(
+    [user_id] => 27
+    [community_id] => 4
+)
+
+[24-Jan-2026 12:49:20 Europe/Berlin] User ID: 27, Community ID: 4
+[24-Jan-2026 12:49:20 Europe/Berlin] Checking if community exists...
+[24-Jan-2026 12:49:20 Europe/Berlin] Creator ID: 28
+[24-Jan-2026 12:49:20 Europe/Berlin] Checking existing membership...
+[24-Jan-2026 12:49:20 Europe/Berlin] ERROR: Already a member
+[24-Jan-2026 18:48:36 Europe/Berlin] === JOIN REQUEST STARTED ===
+[24-Jan-2026 18:48:36 Europe/Berlin] Raw input: {"user_id":27,"community_id":4}
+[24-Jan-2026 18:48:36 Europe/Berlin] Decoded data: Array
+(
+    [user_id] => 27
+    [community_id] => 4
+)
+
+[24-Jan-2026 18:48:36 Europe/Berlin] User ID: 27, Community ID: 4
+[24-Jan-2026 18:48:36 Europe/Berlin] Checking if community exists...
+[24-Jan-2026 18:48:36 Europe/Berlin] Creator ID: 28
+[24-Jan-2026 18:48:36 Europe/Berlin] Checking existing membership...
+[24-Jan-2026 18:48:36 Europe/Berlin] ERROR: Already a member
