@@ -8,10 +8,11 @@ RUN apt-get update && apt-get install -y \
     libonig-dev \
     libxml2-dev \
     zip \
-    unzip
+    unzip \
+    && rm -rf /var/lib/apt/lists/*
 
 # Install PHP extensions
-RUN docker-php-ext-install pdo pdo_mysql mysqli mbstring gd xml curl zip bcmath
+RUN docker-php-ext-install pdo pdo_mysql mysqli mbstring gd xml zip bcmath
 
 # Install Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
@@ -19,18 +20,23 @@ COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 # Set working directory
 WORKDIR /app
 
-# Copy composer files
-COPY composer.json ./
+# Copy composer files first for better caching
+COPY composer.json composer.lock* ./
 
 # Install PHP dependencies
-RUN composer install --optimize-autoloader --no-dev --no-scripts --no-interaction
+RUN composer install --optimize-autoloader --no-dev --no-scripts --no-interaction || true
 
 # Copy application files
 COPY . .
 
-# Expose port (Render will set this via $PORT)
+# Run composer install again in case composer.lock wasn't available initially
+RUN composer install --optimize-autoloader --no-dev --no-interaction
+
+# Create necessary directories and set permissions
+RUN mkdir -p /app/public && chmod -R 755 /app
+
+# Expose port
 EXPOSE 8080
 
 # Start PHP built-in server
-# The server will listen on the port specified by Render's $PORT environment variable
 CMD php -S 0.0.0.0:$PORT -t public
