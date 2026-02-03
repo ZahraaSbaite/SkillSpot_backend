@@ -1,39 +1,36 @@
 FROM php:8.2-apache
 
-# Install dependencies
+# Install system dependencies
 RUN apt-get update && apt-get install -y \
-    git \
-    unzip \
     libzip-dev \
+    unzip \
+    git \
     && docker-php-ext-install pdo pdo_mysql zip \
-    && apt-get clean
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 # Enable Apache modules
 RUN a2enmod rewrite headers
 
-# Install Composer
-COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
-
 # Set working directory
 WORKDIR /var/www/html
 
-# Copy application files
+# Copy all files (including vendor folder)
 COPY . /var/www/html/
 
-# Configure Apache to serve from /public directory
-ENV APACHE_DOCUMENT_ROOT=/var/www/html/public
-RUN sed -ri -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
-RUN sed -ri -e 's!/var/www/!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/apache2.conf /etc/apache2/conf-available/*.conf
+# Update Apache configuration to point to /public
+RUN sed -i 's|/var/www/html|/var/www/html/public|g' /etc/apache2/sites-available/000-default.conf && \
+    sed -i 's|/var/www/html|/var/www/html/public|g' /etc/apache2/apache2.conf
 
-# Install PHP dependencies if composer.json exists
-RUN if [ -f composer.json ]; then composer install --no-dev --optimize-autoloader; fi
+# Set proper permissions
+RUN chown -R www-data:www-data /var/www/html && \
+    chmod -R 755 /var/www/html
 
-# Set permissions
-RUN chown -R www-data:www-data /var/www/html \
-    && chmod -R 755 /var/www/html
+# Create necessary directories with proper permissions
+RUN mkdir -p /var/www/html/uploads /var/www/html/certificates && \
+    chown -R www-data:www-data /var/www/html/uploads /var/www/html/certificates && \
+    chmod -R 775 /var/www/html/uploads /var/www/html/certificates
 
-# Expose port
 EXPOSE 80
 
-# Start Apache
 CMD ["apache2-foreground"]
